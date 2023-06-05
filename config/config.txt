@@ -1,0 +1,4 @@
+[BASE_CONFIG]
+BROWSER=Chrome
+BASE_URL = http://www.musala.com/
+TOKEN_FOR_FIREFOX = {ENTER_YOUR_TOKEN}
